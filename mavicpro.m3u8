@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:642
+#EXT-X-TARGETDURATION:8
+#EXTINF:8.333,
+mavicpro-642.ts
+#EXTINF:8.334,
+mavicpro-643.ts
+#EXTINF:8.333,
+mavicpro-644.ts
+#EXTINF:8.333,
+mavicpro-645.ts
+#EXTINF:8.334,
+mavicpro-646.ts
